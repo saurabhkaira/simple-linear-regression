@@ -1,4 +1,6 @@
 #this model will guide you through on how to create simple linear regression model in machine learning using python
+#import libraries
+
 import numpy as np
 import matplotlib.pyplot as plt 
 import pandas as pd
